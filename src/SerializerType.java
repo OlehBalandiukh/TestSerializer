@@ -1,0 +1,4 @@
+enum SereializerType {
+    JSON,
+    PROPERTIES;
+}
